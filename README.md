@@ -62,3 +62,23 @@
 ![8](README.assets/8.png)
 
 </details>
+
+### 개발 내용
+
+<details>
+  
+ - Unity
+  
+</details>
+
+## :fire: 개발
+### 기술 스택
+![image](https://user-images.githubusercontent.com/116571873/230619535-2fcc6cf3-e97f-48c8-9316-1264a234264e.png)
+
+## :fire: 아키텍쳐
+![image](https://user-images.githubusercontent.com/116571873/230619705-2d0c2d23-cb47-4fe2-ae52-c93a4306a2dd.png)
+
+## :fire: 팀 멤버
+![image](https://user-images.githubusercontent.com/116571873/230619800-27f87a34-fd54-4ce9-85bd-0cf7e8c2a771.png)
+
+
