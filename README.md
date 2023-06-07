@@ -63,14 +63,6 @@
 
 </details>
 
-### 개발 내용
-
-<details>
-  
- - Unity
-  
-</details>
-
 ## :fire: 개발
 ### 기술 스택
 ![image](https://user-images.githubusercontent.com/116571873/230619535-2fcc6cf3-e97f-48c8-9316-1264a234264e.png)
